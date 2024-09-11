@@ -1,0 +1,21 @@
+# Quellen für die Unterrichtsplanung
+
+* Stoffdidaktische Grundlagen, aus denen vielfältig auch Ableitungen für die Unterrichtsgestaltung gezogen werden können, bieten insbesondere die Bücher zur **Didaktik der *Sachgebiete***:
+  * *Didaktik der Algebra: nach der Vorlage von Hans-Joachim Vollrath* [@Weigand2022]
+  * *Didaktik der Geometrie für die Sekundarstufe I* [@Weigand2018]
+  * *Didaktik der Analysis. Aspekte und Grundvorstellungen zentraler Begriffe* [@Greefrath2016]
+  * *Didaktik der Stochastik in der Sekundarstufe I* [@Kruger2015]
+  * *Didaktik der Analytischen Geometrie und Linearen Algebra: Algebraisch verstehen -- Geometrisch veranschaulichen und anwenden* [@Henn2015]
+  * *Mathematikunterricht in der Sekundarstufe II. Band 1: Fachdidaktische Grundfragen, Didaktik der Analysis* [@Tietze:2000a]
+  *	*Mathematikunterricht in der Sekundarstufe II. Band 2: Didaktik der Analytischen Geometrie und Linearen Algebra* [@Tietze:2000]
+  * *Mathematikunterricht in der Sekundarstufe II. Band 3: Didaktik der Stochastik* [@Tietze:2002]
+
+
+* Neben **Schulbüchern** bieten auch weitere von Lehrmittelverlagen angebotene **Unterrichtsmaterialien** zahlreiche Ideen für die Gestaltung von Unterrichtsstunden. 
+
+* Eine Mischung aus unterrichtspraktischer Sicht und fachdidaktischer Fundierung bieten einige **Zeitschriften für die Unterrichtspraxis**, die auf der Webseite https://juergen-roth.de/zeitschriften/ zusammengestellt sind. Besonders zu betonen sind dabei: 
+    * ***mathematik lehren***, für Klassenstufe 5 bis zur Oberstufe gedacht; innerhalb jeder Zeitschrift gibt es immer ein Arbeitsheft **MatheWelt** zu einem spezifischen Thema
+    * ***Mathematik 5 bis 10***, v. a. für die Oberschule gedacht und sehr starkt am Einsatz von Material orientiert
+
+  Die Universitätsbibliothek Potsdam (https://opac.ub.uni-potsdam.de) verfügt über nahezu alle Ausgaben.^[Bei der Suche nach dem Standort der Zeitschrift sollten Sie in der Recherche nach Zeitschriften filtern.] Auf der Webseite des Zeitschriftenverlags (https://www.friedrich-verlag.de) können Sie eine Stichwortsuche durchführen, so dass sie auch erfahren, in welchen Ausgaben einzelne Artikel enthalten sind.
+

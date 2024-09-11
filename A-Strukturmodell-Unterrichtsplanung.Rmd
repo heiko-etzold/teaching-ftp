@@ -1,0 +1,14 @@
+#  (APPENDIX) Anhang {-}
+
+# Strukturmodell Unterrichtsplanung
+
+> **Material** (pdf-Datei)  
+>
+> + [Strukturmodell einer Unterrichtsplanung](files/Strukturmodell-Unterrichtsplanung.pdf)
+
+
+Die Abbildung fasst die in den Kapiteln \@ref(mathematikunterricht-hospitieren) bis \@ref(verlaufsplan-und-material) dargestellten Zusammenhönge noch einmal übersichtlich in einem Strukturmodell zur Unterrichtsplanung zusammen ([→ zur pdf-Datei](files/Strukturmodell-Unterrichtsplanung.pdf)).
+
+```{r Strukturmodell-Unterrichtsplanung, echo=FALSE, fig.cap="Strukturmodell einer Unterrichtsplanung", fig.align='center', out.width='90%'}
+knitr::include_graphics("pictures/Strukturmodell-Unterrichtsplanung.png")
+```
