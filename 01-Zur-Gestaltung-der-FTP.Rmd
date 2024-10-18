@@ -5,7 +5,7 @@
 
 > **Material** (pdf-Dateien)
 >
-> + [Ziele der fachdidaktischen Tagespraktika](files/Kompetenzziele.pdf) (siehe Abschnitt \@ref(ziele-der-ftp))
+> + [Ziele der fachdidaktischen Tagespraktika](files/Zielkompetenzen2024.pdf) (siehe Abschnitt \@ref(ziele-der-ftp))
 > + [Elemente einer Unterrichtsplanung](files/Unterrichtsplanung-Uebersicht.pdf) (siehe Abschnitt \@ref(elemente-einer-unterrichtsplanung)) 
 
 
@@ -34,7 +34,7 @@ Die formalen Vorgaben für die fachdidaktischen Tagespraktika finden Sie auch in
 ## Ziele der FTP
 
 Die Ziele des Praktikums sind grob in der Modulbeschreibung des zugehörigen Moduls MAT-LS-D1 beschrieben.
-Für eine bessere Orientierung und zur Unterstützung Ihrer individuellen Entwicklung wurden im Praxisteam der Mathematikdidaktik an der Universitöt Potsdam noch einal spezifischere Ziele formuliert [→ zur pdf-Datei](files/Kompetenzziele.pdf). Diese werden im Praktikum ausführlich gemeinsam besprochen und fortlaufend verfolgt.
+Für eine bessere Orientierung und zur Unterstützung Ihrer individuellen Entwicklung wurden im Praxisteam der Mathematikdidaktik an der Universitöt Potsdam noch einal spezifischere Ziele formuliert [→ zur pdf-Datei](files/Zielkompetenzen2024.pdf). Diese werden im Praktikum ausführlich gemeinsam besprochen und fortlaufend verfolgt.
 
 Wir unterscheiden dabei in **Mindeststandards**, die alle Studierenden erreichen sollen, sowie ***Regelstandards***, die ein Kompetenzniveau beschreiben, das die Studierenden im Durchschnitt erreichen sollen.
 
