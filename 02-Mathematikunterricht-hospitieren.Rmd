@@ -133,14 +133,11 @@ Diese Erläuterungen sind durchaus als Anregungen für die Gestaltung des Mathem
 
 ### Empfehlung für FTP {#empfehlung-fuer-ftp}
 
-Die für die fachdidaktischen Tagespraktika empfohlenen Kategorien zur strukturierten Unterrichtsbeobachtung ([→ zur pdf-Datei](files/Beobachtungskategorien.pdf)) lehnen sich an die zuvor genannten Kriterien an und verfolgen insbesondere das Ziel, Bezüge zu den Vorlesungsinhalten der Einführung in die Mathematikdidaktik herzustellen -- v. a. unter dem Gesichtspunkt, dass es sich um die ersten Unterrichtsversuche der Studierenden handelt.  
-Während die ersten beiden Kriterien eher **pädagogischer** Natur sind, folgen fünf Krtieren eher **didaktisch-methodischer** Natur sowie weitere fünf, die stärker auf **mathematikdidaktische Theorien** bezogen sind.
-Diese Trennung ist jedoch nicht immer scharf und eine Zuordnung möglicher Inhalte nicht immer eindeutig -- so beeinflusst z. B. die gelebte Fehlerkultur auch das Lernklima, Visualisierungen können zum Verständnis beitragen, die Aufgabengestaltung ermöglicht differenzierenden Unterricht usw.
+Die für die fachdidaktischen Tagespraktika empfohlenen Kategorien zur *strukturierten* Unterrichtsbeobachtung ([→ zur pdf-Datei](files/Beobachtungskategorien.pdf)) lehnen sich an die zuvor genannten Kriterien an und verfolgen insbesondere das Ziel, Bezüge zu den Vorlesungsinhalten der Einführung in die Mathematikdidaktik und zu den [Zielkompetenzen der fachdidaktischen Tagespraktika](#ziele-der-ftp) herzustellen -- v. a. unter dem Gesichtspunkt, dass es sich um die ersten Unterrichtsversuche der Studierenden handelt.  
+Während die erste Kategorie eher **pädagogischer** Natur ist, folgen sechs Kateogrien eher **mathematikdidaktischer** Natur.
+Diese Trennung ist jedoch nicht immer scharf und eine Zuordnung möglicher Inhalte nicht immer eindeutig -- so kann etwa durch eine geeignete Aufgabenauswahl differenzierender Unterricht ermöglicht werden oder die Gestaltung des Lernprozesses bewirkt kommunikationsförderliche Unterrichtssituationen usw.
 
-Die in der folgenden Aufzählung formulierten Kategorienbeschreibungen reichen in keinem Falle aus, die Kategorien inhaltlich durchdrungen zu haben.
-Hierzu ist eine Beschäftigung mit den erwähnten Inhalten notwendig, wofür bei mathematikdidaktischen Bezügen auch mögliche Quellen angegeben sind.
-
-* <img src="pictures/Icon-Lehrkraft.png" alt="Icon für Lehrkraft-Persönlichkeit & Lernklima" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Lehrkraft-Persönlichkeit & Lernklima:** umfasst Körpersprache, Stimme und Raumverhalten der Lehrkraft, das von ihr verkörperte Rollenbild und ihre Empathie gegenüber den Schülerinnen und Schülern
+<!--* <img src="pictures/Icon-Lehrkraft.png" alt="Icon für Lehrkraft-Persönlichkeit & Lernklima" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Lehrkraft-Persönlichkeit & Lernklima:** umfasst Körpersprache, Stimme und Raumverhalten der Lehrkraft, das von ihr verkörperte Rollenbild und ihre Empathie gegenüber den Schülerinnen und Schülern
 
 * <img src="pictures/Icon-Classroom.png" alt="Icon für Classroom-Management" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Classroom-Management:** umfasst die Orchestrierung des Unterrichts (z. B. Raum-, Zeit-, Lichtmanagement) sowie den Umgang mit Störungen bzw. die Störungsprävention
 
@@ -164,8 +161,61 @@ Hierzu ist eine Beschäftigung mit den erwähnten Inhalten notwendig, wofür bei
 
 * <img src="pictures/Icon-Material.png" alt="Icon für Material und Visualisierungen" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Material und Visualisierungen:** umfasst Auswahl, Gestaltung und Einsatz geeigneter Darstellungen (inkl. verschiedener Repräsentationsebenen), Arbeitsmittel, Medien und Materialien
 
-* <img src="pictures/Icon-Mathedidaktik.png" alt="Icon für Spezifische lerngegenstandsabhängige mathematikdidaktische Theorien" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Spezifische lerngegenstandsabhängige mathematikdidaktische Theorien:** umfasst spezifische Maßnahmen zur Bildung von Begriffen (z. B. Wege zum Begriff, Auswahl von Beispielen und Gegenbeispielen, …), Sachverhalten (inkl. Argumentationsanlässe) und Verfahren, die Gestaltung vollständiger oder teilweiser Modellierungssituationen sowie die Ausbildung und Verwendung von Heurismen zum Lösen problemhaltiger Aufgaben
+* <img src="pictures/Icon-Mathedidaktik.png" alt="Icon für Spezifische lerngegenstandsabhängige mathematikdidaktische Theorien" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Spezifische lerngegenstandsabhängige mathematikdidaktische Theorien:** umfasst spezifische Maßnahmen zur Bildung von Begriffen (z. B. Wege zum Begriff, Auswahl von Beispielen und Gegenbeispielen, …), Sachverhalten (inkl. Argumentationsanlässe) und Verfahren, die Gestaltung vollständiger oder teilweiser Modellierungssituationen sowie die Ausbildung und Verwendung von Heurismen zum Lösen problemhaltiger Aufgaben-->
 
+* <img src="pictures/Icon-Lehrkraft.png" alt="Icon für Lehrkraft-Persönlichkeit & Lernklima" width="50" style="float:right; margin:5pt 0 0 5pt;"/> **Lehrkraft-Persönlichkeit & Lernklima**
+  - Körpersprache, Stimme und Raumverhalten
+  - verkörpertes Rollenbild
+  - Empathie gegenüber den Schülerïnnen
+
+* <img src="pictures/Icon-Struktur.png" alt="Icon für Ziele und Strukturierung" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Ziele und Strukturierung**
+  - Auswahl (insb. Eignung für langfristigen Kompetenzerwerb) und Formulierung von Zielen
+  - Orientierung des Lernpfades an stoffdidaktischer Analyse (u. a. Durchgängigkeit der ausgewählten Inhalte, geeignete Kernideen und Kontexte)
+  - angemessene Strukturierung der Unterrichtsstunde in Phasen und Phasenübergänge
+  - Transparenz der Struktur und Ziele gegenüber den Schülerïnnen
+
+    Ausführliche Informationen zu dieser Kategorie bieten die Kapitel \@ref(kompetenzziele) und \@ref(unterrichtsphasen).
+
+
+* <img src="pictures/Icon-Fach.png" alt="Icon für Fachlichkeit und Fehlerkultur" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Fachlichkeit und Fehlerkultur** 
+  - fachliche Korrektheit und Flexibilität
+  - wertschätzender und fachlich produktiver Umgang mit Fehlern (eigene und der Schülerïnnen)
+  - Verstehensorientierung / Orientierung an Grundvorstellungen
+  - operatives Durcharbeiten
+
+
+* <img src="pictures/Icon-Aufgaben.png" alt="Icon für Aufgaben und Medien" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Aufgaben und Medien**
+  - durchgängige Darstellungen, Arbeitsmittel und Visualisierungen
+  - verschiedene Repräsentationsebenen, Darstellungswechsel und -vernetzung
+  - funktionsgerechte Aufgaben (kognitiv aktivieren, erkunden, systematisieren, (produktiv) üben)
+  - Formulierung mithilfe von Operatoren
+
+
+* <img src="pictures/Icon-Differenzierung.png" alt="Icon für Diagnose und Differenzierung" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Diagnose und Differenzierung**
+  - Identifizieren von Lernvoraussetzungen (inkl. intuitiver Vorstellungen) und Aufarbeiten dieser
+  - Planung und Umsetzung verschiedener Differenzierungsmaßnahmen (unterschiedliche Zugänge, Anpassung des Schwierigkeitsgrads, natürliche Differenzierung, …)
+  - Vielfalt in Lösungswegen
+
+
+* <img src="pictures/Icon-Sprache.png" alt="Icon für Kommunikatio und Sprache" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Kommunikation und Sprache** 
+  - Maßnahmen zur Kommunikation zwischen den Schülerïnnen und mit der Lehrkraft
+  - sprachsensibler Mathematikunterricht  und fachbezogene Sprachbildung (u. a. Aufbau der Fachsprache)
+
+
+
+* <img src="pictures/Icon-Lernprozess.png" alt="Icon für Gestaltung des Lernprozesses" width="50" style="float:right; margin:5pt 0 0 5pt;"/>**Gestaltung des Lernprozesses** 
+  - geeignete Unterrichtsmethoden
+  - Bildung von Begriffen, Zusammenhängen/Sachverhalten und Verfahren
+  - Gestaltung von Modellierungs- und Problemlöseprozessen
+  - Organisation geeigneter Hilfen
+  - Orchestrierung des Unterrichts (u. a. Raum-, Zeit-, Lichtmanagement) 
+  - Umgang mit Störungen und Störungsprävention
+
+
+
+
+Die in den Aufzählungungen formulierten Kategorienbeschreibungen reichen in keinem Falle aus, die Kategorien inhaltlich durchdrungen zu haben.
+Hierzu ist eine Beschäftigung mit den erwähnten Inhalten notwendig.
 
 ## Hospitationsmöglichkeiten
 
