@@ -16,7 +16,7 @@ knitr::include_graphics("pictures/Strukturmodell-Unterrichtsplanung.png")
 
 # Vorbesprechung
 
-Bevor Sie Ihre ersten Unterrichtsstunden halten, werden diese einige Tage zuvor mit der/dem Dozierenden besprochen -- einerseits, um die fachlische, fachdidaktische und pädagogische Qualität zu sichern und andererseits, um Ihnen selbst eine gewisse Sicherheit in der Durchführung Ihrer Stunde zu geben. 
+Bevor Sie Ihre ersten Unterrichtsstunden halten, werden diese einige Tage zuvor mit der/dem Dozierenden besprochen -- einerseits, um die fachliche, fachdidaktische und pädagogische Qualität zu sichern und andererseits, um Ihnen selbst eine gewisse Sicherheit in der Durchführung Ihrer Stunde zu geben. 
 
 
 * 24 Stunden vor den Vorbesprechungstermin senden Sie bitte per Mail eine kurze Übersicht (max. eine Seite) mit den **ausformulierten Kompetenzzielen**, der **groben Stundenstruktur inkl. Zeitangaben** sowie **exemplarisch drei kurze Begründungen für didaktisch-methodische Entscheidungen** unterschiedlicher Kategorien (vgl. Abschnitt \@ref(empfehlung-fuer-ftp)).  
