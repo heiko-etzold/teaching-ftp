@@ -51,6 +51,7 @@ verlaufsplan
 material
 beispiel-verlaufsplan-und-material
 strukturmodell-unterrichtsplanung
+vorbesprechung
 didaktischer-schwerpunkt
 quellen-für-die-unterrichtsplanung
 literaturverzeichnis

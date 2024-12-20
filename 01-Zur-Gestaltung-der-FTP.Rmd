@@ -89,7 +89,8 @@ Eine übersichtlichere Darstellungsmöglichkeit wird in Kapitel \@ref(stoffdidak
 Dennoch müssen Sie natürlich die Gedanken, die der stoffdidaktischen Analyse zugrundeliegen, umfänglich durchdacht haben.
 
 * Für die **Einzelstunde**, die Sie unterrichten, reicht es, die *Kompetenzziele* sowie den *Verlaufsplan und das Material* darzustellen und zur Vorbesprechung auf die Unterrichtsstunde mitzubringen.
-Die Überlegungen zu allen vorherigen Elementen müssen Sie selbstverständlich durchführen, brauchen diese aber für die Vorbesprechung nicht zu verschriftlichen.
+Die Überlegungen zu allen vorherigen Elementen müssen Sie selbstverständlich durchführen, brauchen diese aber für die Vorbesprechung nicht ausführlich zu verschriftlichen. 
+Weitere Hinweise finden sich im Anhang \@ref(vorbesprechung).
 
 * Für den Praktikumsbericht wählen Sie eine der von Ihnen gehaltenen Unterrichtsstunden aus und stellen deren Planung entsprechend ausführlich dar.
 Dabei gehen Sie jedoch fiktiv von einer **in der Zukunft zu haltenden Unterrichtsstunde** aus.
