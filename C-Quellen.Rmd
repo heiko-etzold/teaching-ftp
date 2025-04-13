@@ -1,5 +1,8 @@
 # Quellen für die Unterrichtsplanung
 
+* Hilfreiche **grundsätzliche Hinweise** zur Planung einer Mathematikstunde bietet bspw. @Sill2019a [315-329]. Dabei geht er auch auf *typische Lernprozesse* ein (wie das Aneignen mathematischer Begriffe, das Aneignen mathematischer Zusammenhänge, …), die in den vorher dargestellten Kapiteln ausführlich beschrieben werden.
+
+
 * Stoffdidaktische Grundlagen, aus denen vielfältig auch Ableitungen für die Unterrichtsgestaltung gezogen werden können, bieten insbesondere die Bücher zur **Didaktik der *Sachgebiete***:
   * *Didaktik der Algebra: nach der Vorlage von Hans-Joachim Vollrath* [@Weigand2022]
   * *Didaktik der Geometrie für die Sekundarstufe I* [@Weigand2018]
